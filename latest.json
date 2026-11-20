@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "file": "releases/nestingengine-1.2.0-rh8_37-win.yak",
+  "version": "1.2.1",
+  "file": "releases/nestingengine-1.2.1-rh8_37-win.yak",
   "date": "2026-11-20",
-  "notes": "Automatic updates from GitHub and the shop update folder."
+  "notes": "Nesting Engine toolbar tab always sits in the main top toolbar strip."
 }
