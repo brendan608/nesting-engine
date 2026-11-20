@@ -1,6 +1,1 @@
-{
-  "version": "1.2.2",
-  "file": "releases/nestingengine-1.2.2-rh8_37-win.yak",
-  "date": "2026-11-20",
-  "notes": "The panel always docks on the left at its normal width."
-}
+{"version": "1.2.3", "file": "releases/nestingengine-1.2.3-rh8_37-win.yak"}
