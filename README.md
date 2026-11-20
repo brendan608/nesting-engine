@@ -7,7 +7,7 @@ Nests parts onto sheets (several sizes) or fabric rolls (several widths), using 
 ## Install (once per PC)
 
 1. You need **Rhino 8, version 8.37 or newer** (Help → About Rhinoceros; Help → Check for Updates if older).
-2. Download the latest package: **[Download Nesting Engine 1.2.3](https://github.com/brendan608/nesting-engine/raw/main/releases/nestingengine-1.2.3-rh8_37-win.yak)**
+2. Download the latest package: **[Download Nesting Engine 1.2.4](https://github.com/brendan608/nesting-engine/raw/main/releases/nestingengine-1.2.4-rh8_37-win.yak)**
 3. Open Rhino 8 and **drag the downloaded `.yak` file onto the Rhino viewport**.
    (Double-clicking the file does not work – Rhino asks for the file instead. If that happens, click *Browse* and pick it.)
 4. Close Rhino and open it again.
