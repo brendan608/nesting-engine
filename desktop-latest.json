@@ -1,0 +1,16 @@
+{
+    "version":  "0.2.2",
+    "tag":  "desktop-v0.2.2",
+    "url":  "",
+    "parts":  [
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-v0.2.2/NestingEngineDesktop-0.2.2-beta.zip.001",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-v0.2.2/NestingEngineDesktop-0.2.2-beta.zip.002",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-v0.2.2/NestingEngineDesktop-0.2.2-beta.zip.003",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-v0.2.2/NestingEngineDesktop-0.2.2-beta.zip.004",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-v0.2.2/NestingEngineDesktop-0.2.2-beta.zip.005",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-v0.2.2/NestingEngineDesktop-0.2.2-beta.zip.006",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-v0.2.2/NestingEngineDesktop-0.2.2-beta.zip.007",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-v0.2.2/NestingEngineDesktop-0.2.2-beta.zip.008"
+              ],
+    "sha256":  "ce5ea39878a296be04da62c1df73f9fe659d25792cf8df333a094063fe8fac54"
+}

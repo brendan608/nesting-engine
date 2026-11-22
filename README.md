@@ -20,6 +20,17 @@ Already have the old separate Rhino 7 package (NestingEngine-Rhino7)? Install th
 
 Nothing to do. Each time Rhino starts, the Nesting Engine checks here for a newer version and installs it; Rhino then asks for a restart, and the new version runs from the next start.
 
+## Nesting Engine Desktop (Windows, no Rhino needed) - beta
+
+The same nesting as a stand-alone Windows program: opens Rhino (.3dm) and DXF drawings, nests them, and exports Rhino 8 / Rhino 7 / DXF R12 drawings and CutPilot cutter files. Jobs can be saved as `.nej` files.
+
+**Install (once per PC):** download **[Install-Nesting-Engine-Desktop.cmd](https://github.com/brendan608/nesting-engine/releases/latest/download/Install-Nesting-Engine-Desktop.cmd)** and double-click it. It downloads the program from here and installs it for your Windows user (no administrator rights), with a desktop shortcut. If Windows shows "Windows protected your PC", click *More info* then *Run anyway*.
+
+Windows 10 or 11 (64-bit). Nothing else is needed.
+
+**Updates:** automatic. Each time the program starts it checks here for a newer version, downloads it and offers to restart into it (or installs it when you close the program).
+
+[desktop-latest.json](desktop-latest.json) names the current desktop version; the program files are on the [desktop releases](https://github.com/brendan608/nesting-engine/releases).
 ## Versions
 
 [latest.json](latest.json) names the current version; every package is in [releases](releases/). Older versions had separate Rhino 8 (`…-rh8_37-win.yak`) and Rhino 7 (`nestingengine-rhino7-…`) packages.
