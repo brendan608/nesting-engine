@@ -1,16 +1,16 @@
 {
-    "version":  "0.2.11",
-    "tag":  "desktop-alpha-v0.2.11",
+    "version":  "0.2.12",
+    "tag":  "desktop-alpha-v0.2.12",
     "url":  "",
     "parts":  [
-                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.11/NestingEngineDesktop-0.2.11-alpha.zip.001",
-                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.11/NestingEngineDesktop-0.2.11-alpha.zip.002",
-                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.11/NestingEngineDesktop-0.2.11-alpha.zip.003",
-                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.11/NestingEngineDesktop-0.2.11-alpha.zip.004",
-                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.11/NestingEngineDesktop-0.2.11-alpha.zip.005",
-                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.11/NestingEngineDesktop-0.2.11-alpha.zip.006",
-                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.11/NestingEngineDesktop-0.2.11-alpha.zip.007",
-                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.11/NestingEngineDesktop-0.2.11-alpha.zip.008"
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.12/NestingEngineDesktop-0.2.12-alpha.zip.001",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.12/NestingEngineDesktop-0.2.12-alpha.zip.002",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.12/NestingEngineDesktop-0.2.12-alpha.zip.003",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.12/NestingEngineDesktop-0.2.12-alpha.zip.004",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.12/NestingEngineDesktop-0.2.12-alpha.zip.005",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.12/NestingEngineDesktop-0.2.12-alpha.zip.006",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.12/NestingEngineDesktop-0.2.12-alpha.zip.007",
+                  "https://github.com/brendan608/nesting-engine/releases/download/desktop-alpha-v0.2.12/NestingEngineDesktop-0.2.12-alpha.zip.008"
               ],
-    "sha256":  "4a301042185c0582e3335487beaf6a0fa481fcb90208a7c0e521f0a6eff774e0"
+    "sha256":  "a36859595bacab53be72715dc9c989aa42c35f2773e568ca2dd8e717fa5720d9"
 }
