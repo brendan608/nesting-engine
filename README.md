@@ -8,7 +8,7 @@ Nests parts onto sheets (several sizes) or fabric rolls (several widths), using 
 
 One file for both Rhino 8 and Rhino 7 – it runs the right version by itself.
 
-1. Download it: **[Download Nesting Engine 1.3.0 (Rhino 7 and Rhino 8)](https://github.com/brendan608/nesting-engine/raw/main/releases/nestingengine-1.3.0-rhino7-and-rhino8.yak)**
+1. Download it: **[Download Nesting Engine 1.3.1 (Rhino 7 and Rhino 8)](https://github.com/brendan608/nesting-engine/raw/main/releases/nestingengine-1.3.1-rhino7-and-rhino8.yak)**
 2. Open Rhino and **drag the downloaded `.yak` file onto the Rhino viewport**.
    (Double-clicking the file does not work – Rhino asks for the file instead. If that happens, click *Browse* and pick it.)
 3. Close Rhino and open it again.
